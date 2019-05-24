@@ -1,7 +1,7 @@
 # Programming
-This is a set of educational folders of the languages i know
-some of then arent exaclty languages exacly!
-Still in progress 
+This is a set of educational folders of the languages i know.
+Some of them aren't exaclty languages
+#Still in progress 
 ------------------------------------------------------------
 c
 c++
